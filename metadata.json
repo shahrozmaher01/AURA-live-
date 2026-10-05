@@ -1,0 +1,6 @@
+{
+  "name": "Bisma Live",
+  "description": "Live voice-chat and social networking application with multi-seat rooms, gifts, VIP, agencies, and moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
